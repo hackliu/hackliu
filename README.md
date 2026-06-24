@@ -1,12 +1,5 @@
-<h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Cyber+Security+Researcher;Network+Protocol+Enthusiast;Go+%7C+Python+%7C+Network+Tools;Building+Open+Source+Security+Tools" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Cyber+Security+Researcher;Network+Protocol+Enthusiast;Go+%7C+Python+%7C+Network+Tools;Building+Open+Source+Security+Tools" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,13 +26,9 @@
 
 ### ⏳ Year Progress
 
-<p align="center">
-
 ```
 ████████████████████████░░░░░░░░░░░░░  48.21%
 ```
-
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackliu/hackliu/output/github-contribution-grid-snake-dark.svg" />
@@ -96,8 +85,6 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
-
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [**ISEAA-DJBHCP**](https://github.com/hackliu/ISEAA-DJBHCP) | 等级保护测评培训与经验总结 | ![Stars](https://img.shields.io/github/stars/hackliu/ISEAA-DJBHCP?style=social) |
@@ -105,11 +92,9 @@
 | [**NetRadar**](https://github.com/hackliu/NetRadar) | 网络资产发现与端口扫描器 (Go+Fyne) | ![Stars](https://img.shields.io/github/stars/hackliu/NetRadar?style=social) |
 | [**SensitiveInfoScanner**](https://github.com/hackliu/SensitiveInfoScanner) | 敏感信息扫描工具 (Python) | ![Stars](https://img.shields.io/github/stars/hackliu/SensitiveInfoScanner?style=social) |
 
-</p>
-
 ---
 
-<h3 align="center">🤝 Let's Connect</h3>
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="http://www.hackliu.com"><img src="https://img.shields.io/badge/🌐_Website-hackliu.com-0e75b6?style=for-the-badge" /></a>
@@ -118,8 +103,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
-<!--
-**hackliu/hackliu** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+---
 
 ⭐ From [hackliu](https://github.com/hackliu)
