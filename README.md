@@ -1,11 +1,13 @@
-<div align="center">
+<h1 align="center">
+  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
-# 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Cyber+Security+Researcher;Network+Protocol+Enthusiast;Go+%7C+Python+%7C+Network+Tools;Building+Open+Source+Security+Tools" alt="Typing SVG" /></a>
-
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Cyber+Security+Researcher;Network+Protocol+Enthusiast;Go+%7C+Python+%7C+Network+Tools;Building+Open+Source+Security+Tools" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hackliu&label=Profile%20Views&color=0e75b6&style=flat" alt="hackliu" />
@@ -31,13 +33,13 @@
 
 ### ⏳ Year Progress
 
-<div align="center">
+<p align="center">
 
 ```
 ████████████████████████░░░░░░░░░░░░░  48.21%
 ```
 
-</div>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackliu/hackliu/output/github-contribution-grid-snake-dark.svg" />
@@ -81,20 +83,20 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackliu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackliu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackliu&theme=github-compact&hide_border=true&area=true" width="90%" />
-</div>
+</p>
 
 ---
 
 ### 📌 Featured Projects
 
-<div align="center">
+<p align="center">
 
 | Project | Description | Stars |
 |---------|-------------|-------|
@@ -103,22 +105,18 @@
 | [**NetRadar**](https://github.com/hackliu/NetRadar) | 网络资产发现与端口扫描器 (Go+Fyne) | ![Stars](https://img.shields.io/github/stars/hackliu/NetRadar?style=social) |
 | [**SensitiveInfoScanner**](https://github.com/hackliu/SensitiveInfoScanner) | 敏感信息扫描工具 (Python) | ![Stars](https://img.shields.io/github/stars/hackliu/SensitiveInfoScanner?style=social) |
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<h3 align="center">🤝 Let's Connect</h3>
 
-### 🤝 Let's Connect
-
-<p>
+<p align="center">
   <a href="http://www.hackliu.com"><img src="https://img.shields.io/badge/🌐_Website-hackliu.com-0e75b6?style=for-the-badge" /></a>
   <a href="https://github.com/hackliu"><img src="https://img.shields.io/badge/GitHub-hackliu-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-
-</div>
 
 <!--
 **hackliu/hackliu** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
