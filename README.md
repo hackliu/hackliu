@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hackliu&label=Profile%20Views&color=0e75b6&style=flat" alt="hackliu" />
   <a href="http://www.hackliu.com"><img src="https://img.shields.io/badge/Website-hackliu.com-0e75b6?style=flat&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:liu@hackliu.com"><img src="https://img.shields.io/badge/Email-liu@hackliu.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ls@hackliu.com"><img src="https://img.shields.io/badge/Email-ls@hackliu.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
