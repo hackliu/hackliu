@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ==================== HEADER ==================== -->
+<!-- ══════════════════════════════════════════════ HEADER ══════════════════════════════════════════════ -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F9FFF&center=true&vCenter=true&random=false&width=600&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80+%5B+System+%E2%97%8F+Online+%5D;%F0%9F%91%8B+Hello%2C+I'm+hackliu+%E5%88%98%E5%A4%A7%E7%A1%95;Cyber+Security+Researcher;Network+%26+DNS+Protocol+Engineer;Go+%7C+Python+%7C+Network+Tools;%E6%8A%80%E6%9C%AF%E5%90%91%E5%96%84+%2F+Open+Source" alt="Typing SVG" />
 
@@ -14,31 +14,32 @@
 
 <br />
 
-<!-- ==================== QUICK LINKS ==================== -->
-
+<!-- Quick Links -->
 <p>
-  <a href="https://github.com/hackliu"><img src="https://img.shields.io/badge/GitHub-hackliu-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="http://www.hackliu.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-hackliu.com-0e75b6?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="mailto:ls@hackliu.com"><img src="https://img.shields.io/badge/%F0%9F%93%AC_Email-ls@hackliu.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=hackliu&label=Profile+Views&color=0e75b6&style=flat-square" alt="views" />
+  <a href="https://github.com/hackliu"><img src="https://img.shields.io/badge/GitHub-hackliu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="http://www.hackliu.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-hackliu.com-0e75b6?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+  &nbsp;
+  <a href="mailto:ls@hackliu.com"><img src="https://img.shields.io/badge/%F0%9F%93%AC_Email-ls@hackliu.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=hackliu&label=Profile+Views&color=0e75b6&style=flat-square" alt="views" />
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME + CODING GIF ==================== -->
+<!-- ══════════════════════════════════════════════ ABOUT ME ══════════════════════════════════════════════ -->
 
 <table>
 <tr>
-<td width="65%">
+<td width="55%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> About Me
 
 🏢 &nbsp;Working at **WG5** — Cybersecurity & Network Infrastructure  
 📍 &nbsp;Based in **Paris, France**  
-🛡️ &nbsp;Specializing in **等级保护** & Network Security  
+🛡️ &nbsp;Specializing in **渗透测试** & 网络安全攻防实战  
 🔧 &nbsp;Building open-source network tools & security scanners  
 🧠 &nbsp;**技术向善，开放共享** — Tech for good, open and shared
 
@@ -48,35 +49,65 @@
   <i>"The quieter you become, the more you are able to hear."</i> 🔍
 </p>
 
-</td>
-<td width="35%" align="center">
+<p align="center">
+  <b>✨ You have finally discovered my Github profile. ✨</b>
+</p>
 
-<!-- coding.gif — 主 CDN: jsdelivr, 备: GitHub raw -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sun0225SUN/sun0225SUN/main/assets/images/coding.gif" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"
-       alt="Coding"
-       width="200" />
-</picture>
+</td>
+<td width="45%" align="center">
+
+<!-- Avatar icon -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png"
+     width="110"
+     alt="avatar" />
 
 <br />
+<br />
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/happy.gif" width="30" />
-
-**Happy Coding!**
+<!-- dongyuanwai coding.gif -->
+<img src="https://github.com/dongyuanwai/readme-become-better/raw/main/images/coding.gif"
+     width="240"
+     alt="Coding Animation" />
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <b>✨ You have finally discovered my Github profile. ✨</b>
-</p>
+---
+
+<!-- ══════════════════════════════════════════════ CODING + TOP LANGS ══════════════════════════════════════════════ -->
+
+<div align="center">
+
+### Hello World!! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="30" />
+
+<br />
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<!-- giphy coding GIF -->
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+     alt="Coding GIF"
+     width="380" />
+
+</td>
+<td align="center" width="50%">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackliu&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=cn"
+     alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<!-- ==================== YEAR PROGRESS & SNAKE ==================== -->
+<!-- ══════════════════════════════════════════════ YEAR PROGRESS & SNAKE ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -87,7 +118,7 @@
 <br />
 <br />
 
-<!-- snake contribution animation — dark/light adaptive, generated by GitHub Actions -->
+<!-- snake contribution animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackliu/hackliu/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackliu/hackliu/output/github-contribution-grid-snake.svg" />
@@ -98,31 +129,7 @@
 
 ---
 
-<!-- ==================== HELLO WORLD + TOP LANGS ==================== -->
-
-<div align="center">
-
-### Hello World!! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="30" />
-
-<!-- giphy coding GIF — 主: Giphy CDN, 备: jsdelivr -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-       alt="Coding GIF"
-       width="360" />
-</picture>
-
-<br />
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackliu&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=cn" />
-
-</div>
-
----
-
-<!-- ==================== TECH STACK ==================== -->
+<!-- ══════════════════════════════════════════════ TECH STACK ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -135,7 +142,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-### 🔐 Some of the technologies I have worked with
+<br />
+
+### 🔐 Technologies I Work With
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -153,36 +162,30 @@
 
 ---
 
-<!-- ==================== GITHUB STATS + ICON ==================== -->
+<!-- ══════════════════════════════════════════════ GITHUB STATS ══════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 📊 My Github Stats
-
-<!-- icon.png — 主: jsdelivr, 备: GitHub raw -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sun0225SUN/sun0225SUN/main/assets/images/icon.png" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png"
-       width="25"
-       alt="icon" />
-</picture>
 
 <img src="https://komarev.com/ghpvc/?username=hackliu&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
 
 <br />
 <br />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackliu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&locale=cn" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackliu&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=cn" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackliu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&locale=cn" alt="GitHub Stats" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackliu&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=cn" alt="Top Languages" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackliu&theme=github-compact&hide_border=true&area=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackliu&theme=github-compact&hide_border=true&area=true" width="90%" alt="Activity Graph" />
 
 </div>
 
 ---
+
+<!-- ══════════════════════════════════════════════ FEATURED PROJECTS ══════════════════════════════════════════════ -->
 
 ### 📌 Featured Projects
 
@@ -199,17 +202,21 @@
 
 ---
 
+<!-- ══════════════════════════════════════════════ FOOTER ══════════════════════════════════════════════ -->
+
 <div align="center">
 
 ### 🤝 Let's Connect
 
 <p>
-  <a href="http://www.hackliu.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-hackliu.com-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/hackliu"><img src="https://img.shields.io/badge/GitHub-hackliu-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:ls@hackliu.com"><img src="https://img.shields.io/badge/Gmail-ls@hackliu.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="http://www.hackliu.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-hackliu.com-0e75b6?style=for-the-badge" alt="Website" /></a>
+  &nbsp;
+  <a href="https://github.com/hackliu"><img src="https://img.shields.io/badge/GitHub-hackliu-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  &nbsp;
+  <a href="mailto:ls@hackliu.com"><img src="https://img.shields.io/badge/Gmail-ls@hackliu.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="footer wave" />
 
 ⭐ From [hackliu](https://github.com/hackliu)
 
@@ -220,13 +227,18 @@
 IMAGE CDN FALLBACK STRATEGY
 ══════════════════════════════════════════════════════════════════
 
-Image | Primary CDN | Fallback CDN
-------|-------------|-------------
-coding.gif | cdn.jsdelivr.net/gh/sun0225SUN/... | raw.githubusercontent.com/sun0225SUN/...
-icon.png   | cdn.jsdelivr.net/gh/sun0225SUN/... | raw.githubusercontent.com/sun0225SUN/...
-giphy.gif  | media.giphy.com/media/M9gbBd9... | cdn.jsdelivr.net/gh/sun0225SUN/.../coding.gif
+Image               | Primary CDN
+--------------------|-------------
+icon.png (avatar)   | cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png
+dongyuanwai coding  | github.com/dongyuanwai/readme-become-better/raw/main/images/coding.gif
+giphy coding GIF    | media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
+top-langs stats     | github-readme-stats.vercel.app (dynamic)
+year progress       | progress-bar.xyz (dynamic)
+snake animation     | GitHub Actions → output branch
+shields.io badges   | dynamically generated
+GitHub stats cards  | github-readme-stats.vercel.app (dynamic)
 
-All external GIFs use <picture> elements with redundant <source> tags.
+All external GIFs use <picture> elements where dark/light mode is needed.
 The snake SVG is auto-generated by GitHub Actions to the `output` branch.
 Shields.io badges and GitHub stats cards are dynamically generated.
 ══════════════════════════════════════════════════════════════════
