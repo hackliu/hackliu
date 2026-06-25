@@ -1,191 +1,134 @@
-<div align="center">
+# <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!-- ══════════════════════════════════════════════ HEADER ══════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F9FFF&center=true&vCenter=true&random=false&width=600&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80+%5B+System+%E2%97%8F+Online+%5D;%F0%9F%91%8B+Hello%2C+I'm+hackliu+%E5%88%98%E5%A4%A7%E7%A1%95;Cyber+Security+Researcher;Network+%26+DNS+Protocol+Engineer;Go+%7C+Python+%7C+Network+Tools;%E6%8A%80%E6%9C%AF%E5%90%91%E5%96%84+%2F+Open+Source" alt="Typing SVG" />
-
-<br />
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1000&pause=5000&color=58A6FF&center=true&vCenter=true&repeat=false&random=false&width=800&lines=%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%2C+%F0%9D%90%9F%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!+%F0%9F%91%8B" />
-  <img alt="Welcome" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1000&pause=5000&color=0969DA&center=true&vCenter=true&repeat=false&random=false&width=800&lines=%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%2C+%F0%9D%90%9F%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!+%F0%9F%91%8B" />
-</picture>
-
-<br />
-
-<!-- Quick Links -->
-<p>
-  <a href="https://github.com/hackliu"><img src="https://img.shields.io/badge/GitHub-hackliu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="http://www.hackliu.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-hackliu.com-0e75b6?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
-  &nbsp;
-  <a href="mailto:ls@hackliu.com"><img src="https://img.shields.io/badge/%F0%9F%93%AC_Email-ls@hackliu.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=hackliu&label=Profile+Views&color=0e75b6&style=flat-square" alt="views" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════ ABOUT ME ══════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td width="55%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> About Me
-
-🏢 &nbsp;Working at **WG5** — Cybersecurity & Network Infrastructure  
-📍 &nbsp;Based in **Paris, France**  
-🛡️ &nbsp;Specializing in **渗透测试** & 网络安全攻防实战  
-🔧 &nbsp;Building open-source network tools & security scanners  
-🧠 &nbsp;**技术向善，开放共享** — Tech for good, open and shared
-
-<br />
 
 <p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i> 🔍
+  <em>
+    This is hackliu (刘大硕), a Cybersecurity Researcher based in Paris. <br>
+    A <b>Network Security Specialist</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px"> and an <b>Open Source Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>network protocols</b>, <b>DNS</b>, and
+    <b>building security tools</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Rocket.gif" width="18px">to 
+    <b>protect</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em>
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>技术向善，开放共享 — Tech for good, open and shared!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="center">
-  <b>✨ You have finally discovered my Github profile. ✨</b>
-</p>
+<!--
+**hackliu/hackliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-</td>
-<td width="45%" align="center">
 
-<!-- Avatar icon -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png"
-     width="110"
-     alt="avatar" />
-
-<br />
-<br />
-
-<!-- dongyuanwai coding.gif -->
-<img src="https://github.com/dongyuanwai/readme-become-better/raw/main/images/coding.gif"
-     width="240"
-     alt="Coding Animation" />
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ══════════════════════════════════════════════ CODING + TOP LANGS ══════════════════════════════════════════════ -->
-
-<div align="center">
-
-### Hello World!! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="30" />
-
-<br />
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<!-- giphy coding GIF -->
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-     alt="Coding GIF"
-     width="380" />
-
-</td>
-<td align="center" width="50%">
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackliu&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=cn"
-     alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════ YEAR PROGRESS & SNAKE ══════════════════════════════════════════════ -->
-
-<div align="center">
-
-### ⏳ Year Progress
-
-<img src="https://progress-bar.xyz/48/?scale=100&title=2026&width=600&suffix=%25&color=58a6ff" width="600" alt="year progress 48%" />
-
-<br />
-<br />
-
-<!-- snake contribution animation -->
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackliu/hackliu/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackliu/hackliu/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hackliu/hackliu/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hackliu/hackliu/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
 
----
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
 
-<!-- ══════════════════════════════════════════════ TECH STACK ══════════════════════════════════════════════ -->
 
-<div align="center">
-
-### 🛠️ Languages I Use
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-<br />
-
-### 🔐 Technologies I Work With
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/DNS-FF6C2C?style=flat-square&logo=icloud&logoColor=white" />
-<img src="https://img.shields.io/badge/TCP%2FIP-0052CC?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-004B87?style=flat-square&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-F63E02?style=flat-square&logo=burp-suite&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Fyne-00ADD8?style=flat-square&logo=go&logoColor=white" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════ GITHUB STATS ══════════════════════════════════════════════ -->
 
 <div align="center">
+  
+Happy Coding! 😊
+---
+</div>
 
-### 📊 My Github Stats
+<div align="center">
+  <!-- knock code pictures 敲代码的图片 -->
+<picture>
+<img src="https://github.com/dongyuanwai/readme-become-better/raw/main/images/coding.gif" />
+</picture>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=hackliu&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
 
-<br />
-<br />
+#### Hi, I'm hackliu:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⏳ Year progress { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 48.22%
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackliu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&locale=cn" alt="GitHub Stats" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackliu&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=cn" alt="Top Languages" />
+- 🏢 Working at **WG5** — Cybersecurity & Network Infrastructure
+- 📍 Based in **Paris, France**
+- 🛡️ Specializing in **渗透测试** & 网络安全攻防实战
+- 🔧 Building open-source network tools & security scanners
+- :mailbox: You can reach me with the links below
 
-<br />
+<p>
+  <a href="http://www.hackliu.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-hackliu.com-0e75b6?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/hackliu"><img src="https://img.shields.io/badge/GitHub-hackliu-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:ls@hackliu.com"><img src="https://img.shields.io/badge/Gmail-ls@hackliu.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackliu&theme=github-compact&hide_border=true&area=true" width="90%" alt="Activity Graph" />
 
+
+<div align="center">
+  
+  Hello World ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+---
+
+<!-- knock code pictures 敲代码的图片 -->
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="margin-right: 20px;" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackliu&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=cn" />
+</div>
+
+
+#### Languages I use
+
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![Shell](https://img.shields.io/badge/-Shell-000000?style=flat&logo=gnu-bash)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+#### Some of the technologies I have worked with
+
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![DNS](https://img.shields.io/badge/-DNS-222222?style=flat&logo=icloud&logoColor=FF6C2C)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-222222?style=flat&logo=wireshark&logoColor=1679A7)
+![Nmap](https://img.shields.io/badge/-Nmap-222222?style=flat&logo=nmap&logoColor=004B87)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-222222?style=flat&logo=burp-suite&logoColor=F63E02)
+![VS Code](https://img.shields.io/badge/-VS_Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Fyne](https://img.shields.io/badge/-Fyne-222222?style=flat&logo=go&logoColor=00ADD8)
+</div>
+
+
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=hackliu&label=Visitors&color=0e75b6&style=flat" width="200" /> My Github Stats <img src="https://camo.githubusercontent.com/3d019a80e3b619d8c56cff6d0b49c1c2124d2cb39f7281ebbbc8a273c4731330/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />
+---
+</div>
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="200" align="left" />
+
+<table>
+    <tr>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=hackliu&show_icons=true&locale=cn&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hackliu&theme=github_dark" align="right" /></center>
+        </td>
+    </tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackliu&theme=dracula&hide_border=true&area=true" />
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════ FEATURED PROJECTS ══════════════════════════════════════════════ -->
 
 ### 📌 Featured Projects
 
@@ -202,44 +145,33 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════ FOOTER ══════════════════════════════════════════════ -->
-
 <div align="center">
 
-### 🤝 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
-<p>
-  <a href="http://www.hackliu.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-hackliu.com-0e75b6?style=for-the-badge" alt="Website" /></a>
-  &nbsp;
-  <a href="https://github.com/hackliu"><img src="https://img.shields.io/badge/GitHub-hackliu-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  &nbsp;
-  <a href="mailto:ls@hackliu.com"><img src="https://img.shields.io/badge/Gmail-ls@hackliu.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="footer wave" />
-
-⭐ From [hackliu](https://github.com/hackliu)
+⭐ <strong>From <a href="https://github.com/hackliu">hackliu</a></strong>
 
 </div>
 
+
 <!--
 ══════════════════════════════════════════════════════════════════
-IMAGE CDN FALLBACK STRATEGY
+STYLE REFERENCE — Bifishone-inspired dark theme layout
 ══════════════════════════════════════════════════════════════════
 
-Image               | Primary CDN
---------------------|-------------
-icon.png (avatar)   | cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png
-dongyuanwai coding  | github.com/dongyuanwai/readme-become-better/raw/main/images/coding.gif
-giphy coding GIF    | media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
-top-langs stats     | github-readme-stats.vercel.app (dynamic)
-year progress       | progress-bar.xyz (dynamic)
-snake animation     | GitHub Actions → output branch
-shields.io badges   | dynamically generated
-GitHub stats cards  | github-readme-stats.vercel.app (dynamic)
+Badge style:
+  Languages  → flat black (#000000) with colored logo
+  Tech/tools → flat dark gray (#222222) with colored logo + logoColor
 
-All external GIFs use <picture> elements where dark/light mode is needed.
-The snake SVG is auto-generated by GitHub Actions to the `output` branch.
-Shields.io badges and GitHub stats cards are dynamically generated.
+Image placement:
+  dongyuanwai coding.gif → centered "Happy Coding" section
+  giphy coding GIF + top-langs → side by side in "Hello World" section
+  icon.png → standalone centered avatar
+  sun0225SUN coding.gif → left-aligned next to stats table
+  snake.svg → dark/light adaptive from GitHub Actions output branch
+
+Stats cards:
+  github-readme-stats (GitHub stats) + profile-summary-cards (details)
+  Activity graph with dracula theme
 ══════════════════════════════════════════════════════════════════
 -->
