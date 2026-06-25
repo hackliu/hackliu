@@ -105,14 +105,6 @@ Happy Coding! 😊
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=hackliu&label=Visitors&color=0e75b6&style=flat" width="200" /> My Github Stats <img src="https://camo.githubusercontent.com/3d019a80e3b619d8c56cff6d0b49c1c2124d2cb39f7281ebbbc8a273c4731330/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />
----
-</div>
-
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="200" align="left" />
-
 <table>
     <tr>
         <td >
